@@ -1,4 +1,4 @@
-# Color-Picker
+# Color Flipper
 
 ## Sobre o exercício 
 
