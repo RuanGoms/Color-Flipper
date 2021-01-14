@@ -6,7 +6,7 @@ O exercício consiste em usar Javascript para fazer com que o botão consiga tro
 
 ## Preview
 <p align="center">
-  <img src="src/images/ColorPicker.gif">
+  <img src="src/images/ColorPickerGif.gif">
   </p>
 
 
