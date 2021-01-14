@@ -1,2 +1,2 @@
 # Color-Picker
-Exercício Javascript - Color Picker
+Exercício Javascript - Selecionador de cores
